@@ -1,2 +1,2 @@
 # learn
-my leanrs
+my learns
